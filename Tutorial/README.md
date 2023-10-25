@@ -18,6 +18,7 @@ Dedicated to learning bash  and creating scripts.
 || AWK |
 ||For Loop| 
 || Functions | 
+|26/10/2023| Created Backup Script|
 
 
 
