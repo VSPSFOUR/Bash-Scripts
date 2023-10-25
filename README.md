@@ -15,6 +15,9 @@ Dedicated to learning bash  and creating scripts.
 || Control Flow - if/elif/else |
 || Case Statements |
 || Arrays|
+|| AWK |
+||For Loop| 
+|| Functions | 
 
 
 
