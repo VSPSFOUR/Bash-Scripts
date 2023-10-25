@@ -11,7 +11,10 @@ Dedicated to learning bash  and creating scripts.
 || - Using positional arguments| 
 ||- Variable  creation and usage  | 
 ||- Writing and appending to a Txt file | 
-
+|25/10/2023| Word Count from a text file | 
+|| Control Flow - if/elif/else |
+|| Case Statements |
+|| Arrays|
 
 
 

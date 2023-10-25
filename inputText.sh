@@ -1,8 +1,6 @@
-#!/bin/bash 
+#!/bin/bash
 
-echo First Name : 
-read FIRST_NAME
-echo Last Name : 
-read LAST_NAME
 
-echo Hello $FIRST_NAME $LAST_NAME
+wc -w test.txt #word count and file name 
+wc -w < test.txt # only word count
+wc -w <<< "Hello World" #word count of string literal
