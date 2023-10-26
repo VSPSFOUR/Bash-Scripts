@@ -19,7 +19,6 @@ Dedicated to learning bash  and creating scripts.
 ||For Loop| 
 || Functions | 
 |26/10/2023| Created Backup Script|
-
-
+|| Made main backup code into a function| 
 
 
