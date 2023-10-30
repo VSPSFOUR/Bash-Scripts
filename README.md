@@ -20,5 +20,5 @@ Dedicated to learning bash  and creating scripts.
 || Functions | 
 |26/10/2023| Created Backup Script|
 || Made main backup code into a function| 
-
+|30/10/2023| Created Startup Script - Opens my commonly used programs| 
 
