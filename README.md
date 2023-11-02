@@ -21,4 +21,4 @@ Dedicated to learning bash  and creating scripts.
 |26/10/2023| Created Backup Script|
 || Made main backup code into a function| 
 |30/10/2023| Created Startup Script - Opens my commonly used programs| 
-
+|02/11/2023 | Created Mood Script for quick music access via terminal | 
