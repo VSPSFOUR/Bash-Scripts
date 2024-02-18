@@ -1,6 +1,6 @@
 #!/bin/bash
-date 
 echo Welcome, Vyasa.
+date 
 # curl wttr.in
 echo Opening Applications...
 nohup obsidian&
